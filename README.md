@@ -45,6 +45,6 @@ Thanks for your visiting and support! :heart:
 
 <p align="center">
   Copyright (c) ID 2023 Stephanus Bagus Saputra &#40;<a href="https://www.stephanusdai.web.id">www.stephanusdai.web.id</a>&#41;<br>
-  <a href="https://stephanusdai.web.id/p/license.html"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" align="center"></a><br>
+  <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" align="center"></a><br>
   All rights reserved.
 </p>
